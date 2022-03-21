@@ -1,1 +1,6 @@
 *_sol*
+*.csv
+groups.*
+assignments/submissions/
+lectures/*_debias.ipynb
+*.Identifier
